@@ -1,0 +1,271 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ASUS\\Documents\\Asp.net\\ThoiTrang\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6C0A4761-2579-4F4F-8A57-465B40EFF5D0}|ThoiTrang.csproj|c:\\users\\asus\\documents\\asp.net\\thoitrang\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6C0A4761-2579-4F4F-8A57-465B40EFF5D0}|ThoiTrang.csproj|solutionrelative:controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6C0A4761-2579-4F4F-8A57-465B40EFF5D0}|ThoiTrang.csproj|C:\\Users\\ASUS\\Documents\\Asp.net\\ThoiTrang\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6C0A4761-2579-4F4F-8A57-465B40EFF5D0}|ThoiTrang.csproj|solutionrelative:views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6C0A4761-2579-4F4F-8A57-465B40EFF5D0}|ThoiTrang.csproj|C:\\Users\\ASUS\\Documents\\Asp.net\\ThoiTrang\\views\\home\\search.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6C0A4761-2579-4F4F-8A57-465B40EFF5D0}|ThoiTrang.csproj|solutionrelative:views\\home\\search.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6C0A4761-2579-4F4F-8A57-465B40EFF5D0}|ThoiTrang.csproj|C:\\Users\\ASUS\\Documents\\Asp.net\\ThoiTrang\\views\\home\\shop.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6C0A4761-2579-4F4F-8A57-465B40EFF5D0}|ThoiTrang.csproj|solutionrelative:views\\home\\shop.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6C0A4761-2579-4F4F-8A57-465B40EFF5D0}|ThoiTrang.csproj|C:\\Users\\ASUS\\Documents\\Asp.net\\ThoiTrang\\views\\home\\viewcart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6C0A4761-2579-4F4F-8A57-465B40EFF5D0}|ThoiTrang.csproj|solutionrelative:views\\home\\viewcart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6C0A4761-2579-4F4F-8A57-465B40EFF5D0}|ThoiTrang.csproj|C:\\Users\\ASUS\\Documents\\Asp.net\\ThoiTrang\\viewmodel\\shopvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6C0A4761-2579-4F4F-8A57-465B40EFF5D0}|ThoiTrang.csproj|solutionrelative:viewmodel\\shopvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6C0A4761-2579-4F4F-8A57-465B40EFF5D0}|ThoiTrang.csproj|C:\\Users\\ASUS\\Documents\\Asp.net\\ThoiTrang\\views\\home\\category.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6C0A4761-2579-4F4F-8A57-465B40EFF5D0}|ThoiTrang.csproj|solutionrelative:views\\home\\category.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6C0A4761-2579-4F4F-8A57-465B40EFF5D0}|ThoiTrang.csproj|C:\\Users\\ASUS\\Documents\\Asp.net\\ThoiTrang\\views\\home\\cart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6C0A4761-2579-4F4F-8A57-465B40EFF5D0}|ThoiTrang.csproj|solutionrelative:views\\home\\cart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6C0A4761-2579-4F4F-8A57-465B40EFF5D0}|ThoiTrang.csproj|C:\\Users\\ASUS\\Documents\\Asp.net\\ThoiTrang\\models\\cart.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6C0A4761-2579-4F4F-8A57-465B40EFF5D0}|ThoiTrang.csproj|solutionrelative:models\\cart.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6C0A4761-2579-4F4F-8A57-465B40EFF5D0}|ThoiTrang.csproj|C:\\Users\\ASUS\\Documents\\Asp.net\\ThoiTrang\\views\\home\\product_detail.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6C0A4761-2579-4F4F-8A57-465B40EFF5D0}|ThoiTrang.csproj|solutionrelative:views\\home\\product_detail.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6C0A4761-2579-4F4F-8A57-465B40EFF5D0}|ThoiTrang.csproj|C:\\Users\\ASUS\\Documents\\Asp.net\\ThoiTrang\\views\\home\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6C0A4761-2579-4F4F-8A57-465B40EFF5D0}|ThoiTrang.csproj|solutionrelative:views\\home\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6C0A4761-2579-4F4F-8A57-465B40EFF5D0}|ThoiTrang.csproj|C:\\Users\\ASUS\\Documents\\Asp.net\\ThoiTrang\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6C0A4761-2579-4F4F-8A57-465B40EFF5D0}|ThoiTrang.csproj|solutionrelative:views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|ViewDataWindow_MSSQL__/_LocalDB__MSSQLLocalDB/C__USERS_ASUS_DOCUMENTS_ASP.NET_THOITRANG_APP_DATA_SHOP.MDF/True/SqlTable/dbo.Cart.sql||{0058A1F7-65F3-4DB9-B3D0-CA7E64DD73CD}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 9,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{fbcae063-e2c0-4ab1-a516-996ea3dafb72}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e506b91c-c606-466a-90a9-123d1d1e12b3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "search.cshtml",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Documents\\Asp.net\\ThoiTrang\\Views\\Home\\search.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\search.cshtml",
+              "ToolTip": "C:\\Users\\ASUS\\Documents\\Asp.net\\ThoiTrang\\Views\\Home\\search.cshtml",
+              "RelativeToolTip": "Views\\Home\\search.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-29T04:54:14.638Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Cart.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Documents\\Asp.net\\ThoiTrang\\Models\\Cart.cs",
+              "RelativeDocumentMoniker": "Models\\Cart.cs",
+              "ToolTip": "C:\\Users\\ASUS\\Documents\\Asp.net\\ThoiTrang\\Models\\Cart.cs",
+              "RelativeToolTip": "Models\\Cart.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwBkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-29T00:47:02.739Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ViewCart.cshtml",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Documents\\Asp.net\\ThoiTrang\\Views\\Home\\ViewCart.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\ViewCart.cshtml",
+              "ToolTip": "C:\\Users\\ASUS\\Documents\\Asp.net\\ThoiTrang\\Views\\Home\\ViewCart.cshtml",
+              "RelativeToolTip": "Views\\Home\\ViewCart.cshtml",
+              "ViewState": "AQIAABUAAAAAAAAAAAAIwFwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-28T15:40:31.333Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Category.cshtml",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Documents\\Asp.net\\ThoiTrang\\Views\\Home\\Category.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\Category.cshtml",
+              "ToolTip": "C:\\Users\\ASUS\\Documents\\Asp.net\\ThoiTrang\\Views\\Home\\Category.cshtml",
+              "RelativeToolTip": "Views\\Home\\Category.cshtml",
+              "ViewState": "AQIAAE8AAAAAAAAAAAAAAGMAAAAxAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-27T19:14:20.355Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Shop.cshtml",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Documents\\Asp.net\\ThoiTrang\\Views\\Home\\Shop.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\Shop.cshtml",
+              "ToolTip": "C:\\Users\\ASUS\\Documents\\Asp.net\\ThoiTrang\\Views\\Home\\Shop.cshtml",
+              "RelativeToolTip": "Views\\Home\\Shop.cshtml",
+              "ViewState": "AQIAAFEAAAAAAAAAAAAYwG0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-27T19:14:22.483Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Documents\\Asp.net\\ThoiTrang\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\ASUS\\Documents\\Asp.net\\ThoiTrang\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAAB4AAABNAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-28T15:38:03.058Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Documents\\Asp.net\\ThoiTrang\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\ASUS\\Documents\\Asp.net\\ThoiTrang\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Controllers\\HomeController.cs",
+              "ViewState": "AQIAADAAAAAAAAAAAAAYwE0AAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-28T12:37:44.913Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ShopVM.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Documents\\Asp.net\\ThoiTrang\\ViewModel\\ShopVM.cs",
+              "RelativeDocumentMoniker": "ViewModel\\ShopVM.cs",
+              "ToolTip": "C:\\Users\\ASUS\\Documents\\Asp.net\\ThoiTrang\\ViewModel\\ShopVM.cs",
+              "RelativeToolTip": "ViewModel\\ShopVM.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-29T01:09:49.879Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Cart.cshtml",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Documents\\Asp.net\\ThoiTrang\\Views\\Home\\Cart.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\Cart.cshtml",
+              "ToolTip": "C:\\Users\\ASUS\\Documents\\Asp.net\\ThoiTrang\\Views\\Home\\Cart.cshtml",
+              "RelativeToolTip": "Views\\Home\\Cart.cshtml",
+              "ViewState": "AQIAADMBAAAAAAAAAAAAAEcBAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-28T14:35:51.553Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Product_detail.cshtml",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Documents\\Asp.net\\ThoiTrang\\Views\\Home\\Product_detail.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\Product_detail.cshtml",
+              "ToolTip": "C:\\Users\\ASUS\\Documents\\Asp.net\\ThoiTrang\\Views\\Home\\Product_detail.cshtml",
+              "RelativeToolTip": "Views\\Home\\Product_detail.cshtml",
+              "ViewState": "AQIAABEAAAAAAAAAAEBlwCcAAAAzAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-27T19:14:36.928Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "login.cshtml",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Documents\\Asp.net\\ThoiTrang\\Views\\Home\\login.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\login.cshtml",
+              "ToolTip": "C:\\Users\\ASUS\\Documents\\Asp.net\\ThoiTrang\\Views\\Home\\login.cshtml",
+              "RelativeToolTip": "Views\\Home\\login.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-28T15:31:54.541Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Documents\\Asp.net\\ThoiTrang\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\ASUS\\Documents\\Asp.net\\ThoiTrang\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "Views\\Home\\Index.cshtml",
+              "ViewState": "AQIAALIAAAAAAAAAAIBZwLcAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-28T12:50:41.891Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "dbo.Cart [Data]",
+              "DocumentMoniker": "ViewDataWindow_MSSQL__/_LocalDB__MSSQLLocalDB/C__USERS_ASUS_DOCUMENTS_ASP.NET_THOITRANG_APP_DATA_SHOP.MDF/True/SqlTable/dbo.Cart.sql",
+              "ToolTip": "dbo.Cart [Data]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2024-05-28T15:36:21.58Z"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 1234,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 1234,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 1234,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{a80febb4-e7e0-4147-b476-21aaf2453969}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,95 @@
+﻿@model List<ThoiTrang.Models.Product>
+
+@{
+    ViewBag.Title = "Shop";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<section class="banner bg-parallax">
+    <div class="overlay"></div>
+    <div class="container">
+        <div class="banner-content text-center">
+            <h2 class="page-title">SEARCH</h2>
+        </div>
+    </div>
+</section>
+
+<div class="maincontainer">
+    <div class="container">
+        <div class="products row">
+            @foreach (var product in Model)
+            {
+                <div class="product col-sm-4 col-md-3">
+                    <div class="product-thumb">
+                        <a href="@Url.Action("Product_detail", "Home", new {id=product.Id})">
+                            <img src="~/public/html/images/products/@product.img" alt="">
+                        </a>
+                        <div class="product-button">
+                            <!-- You can add product buttons here -->
+                        </div>
+                    </div>
+                    <div class="product-info">
+                        <h3><a href="single-product.html">@product.Name</a></h3>
+
+                        <span class="product-price">@product.Price.ToString("N0") VND</span>
+
+
+                    </div>
+                </div>
+            }
+        </div>
+    </div>
+</div>
+<style>
+    .category-dropdown {
+        position: relative;
+        display: inline-block;
+    }
+
+    .dropdown-title {
+        cursor: pointer;
+        background-color: #f8f9fa;
+        padding: 10px;
+        border: 1px solid #ddd;
+    }
+
+    .dropdown-list {
+        display: none;
+        position: absolute;
+        background-color: white;
+        box-shadow: 0 8px 16px rgba(0, 0, 0, 0.2);
+        z-index: 1;
+        margin: 0;
+        padding: 0;
+        list-style: none;
+        width: 200px;
+    }
+
+        .dropdown-list li {
+            padding: 8px 12px;
+        }
+
+            .dropdown-list li a {
+                color: black;
+                text-decoration: none;
+                display: block;
+            }
+
+                .dropdown-list li a:hover {
+                    background-color: #ddd;
+                }
+</style>
+<script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
+<script>
+    $(document).ready(function () {
+        $('.dropdown-title').click(function () {
+            $('.dropdown-list').slideToggle(200);
+        });
+
+        $(document).click(function (e) {
+            if (!$(e.target).closest('.category-dropdown').length) {
+                $('.dropdown-list').slideUp(200);
+            }
+        });
+    });
+</script>

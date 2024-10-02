@@ -1,0 +1,107 @@
+﻿@model ThoiTrang.Models.Product
+
+@{
+    ViewBag.Title = "Product Detail";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+
+@if (Session["Message"] != null)
+{
+    <div class="alert alert-success alert-dismissible fade show" role="alert">
+        @TempData["Message"]
+        <button type="button" class="btn-close" data-bs-dismiss="alert" aria-label="Close"></button>
+    </div>
+}
+
+<section class="banner bg-parallax">
+    <div class="overlay"></div>
+    <div class="container">
+        <div class="banner-content text-center">
+            <h2 class="page-title">SHOP DETAIL</h2>
+            <div class="breadcrumbs">
+                <!-- Add breadcrumbs here if needed -->
+            </div>
+        </div>
+    </div>
+</section>
+
+<div class="maincontainer">
+    <div class="container">
+        <div class="row">
+            <div class="col-sm-6">
+                <div class="single-images">
+                    <a class="popup-image" href="~/public/html/images/products/@Model.img">
+                        <img class="main-image" src="~/public/html/images/products/@Model.img" alt="@Model.Name" />
+                    </a>
+                </div>
+            </div>
+            <div class="col-sm-6">
+                <div class="summary entry-summary">
+                    <h1 class="product_title entry-title">@Model.Name</h1>
+                    <span class="in-stock"><i class="fa fa-check-circle-o"></i> In stock</span>
+                    <div class="description">
+                        <p>@Model.note</p>
+                    </div>
+                    <p class="price">
+                        <ins><span class="amount">@Model.Price.ToString("N0") VND</span></ins>
+
+                    </p>
+                    <form class="variations_form" method="get" action="@Url.Action("Cart","Home", new { id = @Model.Id })">
+                        <div class="single_variation_wrap">
+                            <div class="box-qty">
+                                <a href="#" class="quantity-plus"><i class="fa fa-angle-up"></i></a>
+                                <input type="text" step="1" min="1" name="quantity" value="1" title="Qty" class="input-text qty text" size="4">
+                                <a href="#" class="quantity-minus"><i class="fa fa-angle-down"></i></a>
+                            </div>
+                            <button type="submit" class="single_add_to_cart_button">Add to cart</button>
+                        </div>
+                    </form>
+
+                    <div class="sigle-product-services">
+                        <div class="services-item">
+                            <div class="icon"><i class="fa fa-plane"></i></div>
+                            <h5 class="service-name">FREE SHIPPING WORLD WIDE</h5>
+                        </div>
+                        <div class="services-item">
+                            <div class="icon"><i class="fa fa-whatsapp"></i></div>
+                            <h5 class="service-name">24/24 ONLINE SUPPORT CUSTOMER</h5>
+                        </div>
+                        <div class="services-item">
+                            <div class="icon"><i class="fa fa-usd"></i></div>
+                            <h5 class="service-name">30 Days money back</h5>
+                        </div>
+                    </div>
+                    <div class="product-share">
+                        <strong>Share:</strong>
+                        <a href="#"><i class="fa fa-facebook"></i></a>
+                        <a href="#"><i class="fa fa-twitter"></i></a>
+                        <a href="#"><i class="fa fa-tencent-weibo"></i></a>
+                        <a href="#"><i class="fa fa-vk"></i></a>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+<script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
+<script>
+    $(document).ready(function () {
+        $('.quantity-plus').on('click', function (e) {
+            e.preventDefault();
+            var quantityInput = $(this).siblings('.qty');
+            var currentValue = parseInt(quantityInput.val());
+            quantityInput.val(currentValue + 1);
+        });
+
+        $('.quantity-minus').on('click', function (e) {
+            e.preventDefault();
+            var quantityInput = $(this).siblings('.qty');
+            var currentValue = parseInt(quantityInput.val());
+            if (currentValue > 1) {
+                quantityInput.val(currentValue - 1);
+            }
+        });
+    });
+</script>
+
